@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/caohuoxia/AppDis-MposWallet.git/MposApp.ipa</string>
+					<string>https://github.com/caohuoxia/AppDis-MposWallet/raw/master/MposApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/caohuoxia/AppDis-MposWallet.git/icon-57@1x.png</string>
+					<string>https://github.com/caohuoxia/AppDis-MposWallet/raw/master/icon-57@1x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/caohuoxia/AppDis-MposWallet.git/icon-512@1x.png</string>
+					<string>https://github.com/caohuoxia/AppDis-MposWallet/raw/master/icon-512@1x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
